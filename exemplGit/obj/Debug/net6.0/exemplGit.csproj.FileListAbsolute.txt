@@ -1,0 +1,15 @@
+C:\Users\alexr\source\repos\exemplGit\exemplGit\bin\Debug\net6.0\exemplGit.exe
+C:\Users\alexr\source\repos\exemplGit\exemplGit\bin\Debug\net6.0\exemplGit.deps.json
+C:\Users\alexr\source\repos\exemplGit\exemplGit\bin\Debug\net6.0\exemplGit.runtimeconfig.json
+C:\Users\alexr\source\repos\exemplGit\exemplGit\bin\Debug\net6.0\exemplGit.dll
+C:\Users\alexr\source\repos\exemplGit\exemplGit\bin\Debug\net6.0\exemplGit.pdb
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.csproj.AssemblyReference.cache
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.AssemblyInfoInputs.cache
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.AssemblyInfo.cs
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.csproj.CoreCompileInputs.cache
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.dll
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\refint\exemplGit.dll
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.pdb
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\exemplGit.genruntimeconfig.cache
+C:\Users\alexr\source\repos\exemplGit\exemplGit\obj\Debug\net6.0\ref\exemplGit.dll
